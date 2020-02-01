@@ -1,0 +1,238 @@
+
+The 
+Blockchain
+Revolution
+The Ultimate 
+Financial Services Industry 
+Disrupter
+James Cohen, Chief Architect 
+-
+Blockchain, HPE Pointnext
+
+2
+James Cohen
+Chief Architect 
+-
+Blockchain, HPE Pointnext
+Œ
+James has been working in the IT industry for more than 40 years
+Œ
+Joined HPE in 
+the UK in 1997 and moved to worldwide in 2011 to develop 
+infrastructure solutions, initially platform transformation, and then Software 
+Defined Infrastructure, before focusing on Blockchain since the end of 2016
+Œ
+Degree in 
+the 
+Mathematics and Computer Science from Brunel University
+Œ
+Served as a Warfare officer in the Royal Naval Reserve for 38 years, including a 
+9 month deployment in 2012 to the Arabian Gulf in command of UK Maritime 
+Trade Operations
+
++44 3305 872 025 
+
+james.cohen@hpe.com
+
+Challenges and 
+Opportunities 
+for Financial Services
+
+ﬁWhat if–every kind of asset from money to 
+music could be stored, moved, transacted, 
+exchanged, and managed, all without 
+powerful intermediaries?ﬂ
+Don 
+Tapscott
+CEO, 
+Tapscott
+Group Co
+-
+founder, Blockchain Research Institute
+Blockchain Revolution
+and in a 2016
+TED Talk
+
+Part 1 of 3: The Authorization Processes (4 steps)
+Cardholder
+Merchant
+Acquirer
+Credit Card Network
+Issuing Bank
+1
+2
+3
+4
+Source: 
+Odysseas
+Papadimitriou, WalletHub CEO
+YOU ARE HERE
+
+Part 2 of 3: The Authentication Processes (6 Steps)
+Cardholder
+Merchant
+Acquirer
+Credit Card Network
+Issuing Bank
+2
+3
+4
+1
+5
+6
+Source: 
+Odysseas
+Papadimitriou, WalletHub CEO
+YOU ARE HERE
+
+Part 3 of 3: Clearing and Settlement (7 Steps)
+Source: 
+Odysseas
+Papadimitriou, WalletHub CEO
+Cardholder
+Merchant
+Acquirer
+Credit Card Network
+Issuing Bank
+1
+1
+2
+3
+4
+5
+6
+7
+1
+YOU ARE HERE
+
+17 Steps
+6+ Parties
+7 Days
+Fees
+
+What do ﬁpowerful intermediariesﬂ do?
+Financial 
+Services Industry
+Corporations
+Governments/Regulators
+Intermediaries
+Establish trust
+Verify identities
+Provide Security & 
+Prevent Fraud
+Reconciliation
+Process Transactions
+Keep records
+Centralized, 
+vulnerable to attack 
+or failure
+Higher
+-
+cost
+Slow, incremental 
+change
+
+How do you pay for a taxi?
+Blockchain Transaction Process
+Single Step, 2 Parties, 1 Hour
+Passenger
+Taxi Driver
+Current Transaction Process
+17 
+Steps, 
+6
++ Parties, 
+7 
+Days
+
+The advantages of a Blockchain
+Œ
+Speed and efficiency
+Œ
+Significantly lower transaction costs
+Œ
+Transparency and self
+-
+auditing
+Œ
+Opportunities for automation (i.e. smart contracts)
+Œ
+The democratization of the exchange of value
+Œ
+The potential to create a trusted universal platform to connect companies, 
+people, nations, machines, and more
+
+12
+Blockchain is immutable
+Blockchain is a Distributed Ledger, but not all Distributed Ledgers 
+are Blockchain
+Blockchain enables trust between parties who do not necessarily 
+have existing trust 
+Œ
+trustless exchange
+Blockchain is not just about cryptocurrency 
+Œ
+it is about delivery of 
+transactions as code 
+Œ
+Smart Contracts
+Authentication using encryption using private/public keys
+
+Speeding and Simplification 
+Cross Border Payments
+Œ
+In 2015 cross
+-
+border payments amounted to more than $150 trillion and 
+generated fees in excess of $200 billion
+Œ
+Current process is expensive and slow (typically about 10 days between the USA 
+and Europe)
+Œ
+There are multiple banks involved, but the system is well established and reliable 
+(SWIFT is used by more than 10,000 institutes in 200 countries)
+Œ
+The alternatives such as Western Union are very expense 
+Œ
+at about 10%
+Œ
+Typical costs of remittances are between 5% and 20%
+Œ
+Blockchain will reduce this to between 2% and 3% and reduce the time to less than 
+one hour
+Œ
+Will require the wide spread use of Digital Currencies, where 1 digital unit will be 
+worth 1 fiat unit
+Œ
+Proper regulation will be needed between the regulators as to how Blockchain will 
+be deployed
+13
+
+Cutting out the middleman
+The future of Share Trading
+Œ
+Blockchain could replace a complete exchange, without the need 
+for a central system to bring supply and demand together
+Œ
+The physical exchange has already been replaced by the data 
+center and servers
+Œ
+Nasdaq has already started a Blockchain initiative to lower 
+transactions costs and speed settlement, replacing the share 
+registration companies
+Œ
+Scalability remains an issue that needs resolution
+Œ
+Dedicated Blockchain 
+trading networks such as the one being built 
+by Nasdaq, are created from the ground up with high volume 
+trading in mind, but are still very much in the testing 
+phase
+14
+
+Questions and 
+Answers?
+James Cohen
+james.cohen@hpe.com
+
+Thank You
