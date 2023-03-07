@@ -1,4 +1,4 @@
 pdfminer==20191125
 flask==1.1.1
 wtforms==2.2.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
